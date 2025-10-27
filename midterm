@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friends of Palo Alto Library Book Sale</title>
+  <link rel="stylesheet" href="midtermstyle.css">
+</head>
+
+<body>
+  <header>
+    <div class="logo">Friends of Palo Alto Library</div>
+
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#sale-rooms">Sale Rooms</a>
+      <a href="#calendar">Calendar</a>
+      <a href="#location">Location</a>
+      <a href="#policies">Policies</a>
+    </nav>
+  </header>
+
+  <main>
+ 
+    <section id="about">
+      <h2>About</h2>
+      <p>
+        Friends of Palo Alto Library are proud to present a monthly book sale of over 50,000 wonderful used books, records, videos, magazines, and more.
+        Support the library by purchasing our low-priced books from the nicest booksellers around.
+        <strong>100% of proceeds go to the Palo Alto Library.</strong>
+      </p>
+      <p>
+        The sale takes place at the Cubberly Community Center one Saturday a month.
+        Check our <a href="#">Sale Calendar</a> for the next sale!
+      </p>
+      <p>
+        The Friends of Palo Alto Library are always accepting book and media donations in our main room.
+      </p>
+    </section>
+
+   
+    <section id="sale-rooms">
+      <h2>Sale Rooms</h2>
+      <p><strong>Main Sale Room:</strong> The main sale room has paperback and hardbound books as well as gift cards.</p>
+      <p><strong>New Room:</strong> Children’s books, music, DVDs, toys, and foreign language books.</p>
+      <p><strong>K6 & K7:</strong> Sunday bargain rooms. Books are 50% off in these rooms on Sunday. We also offer a $5 fill-a-bag deal on Sunday — purchase a shopping bag from us and fill it up!</p>
+      <img src="book-sale.jpg" alt="Friends of Palo Alto Library Book Sale">
+    </section>
+
+    <section id="calendar">
+      <h2>Sale Hours & Calendar</h2>
+      <p>Sales happen on the first Saturday of the month.</p>
+      <p>Our next sale is on <strong>November 1, 2025</strong>.</p>
+
+      <div class="sale-hours">
+        <h3>Saturday</h3>
+        <table>
+          <tr><td>Tickets</td><td>8 AM</td></tr>
+          <tr><td>Bargain Room</td><td>11 AM</td></tr>
+          <tr><td>Main Room</td><td>11 AM</td></tr>
+          <tr><td>New Room</td><td>11 AM</td></tr>
+        </table>
+
+        <h3>Sunday</h3>
+        <table>
+          <tr><td>Bargain Room</td><td>10 AM</td></tr>
+          <tr><td>Main Room</td><td>11 AM</td></tr>
+          <tr><td>New Room</td><td>11 AM</td></tr>
+        </table>
+      </div>
+    </section>
+
+ 
+    <section id="location">
+      <h2>Location</h2>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6337.663007426973!2d-122.11280642424651!3d37.417457332662785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba6d6967fff5%3A0x1fe0687789f22d6b!2sFriends%20of%20the%20Palo%20Alto%20Library!5e0!3m2!1sen!2sus!4v1761076576528!5m2!1sen!2sus"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+ 
+    <section id="policies">
+      <h2>Sale Policies</h2>
+      <h3>Line Policy</h3>
+      <p>
+        The sales line operates on a numbered ticket system. Shoppers may begin to line up at 8 AM to receive their tickets, which hold their spot in line, enabling them to leave the sale and return when the doors open.
+        There is a two-ticket-per-person limit.
+      </p>
+
+      <h3>Twelve Book Policy</h3>
+      <p>
+        We have a sale policy of no more than twelve books per shopper before noon, due to the high number of shoppers.
+        The limitation continues after noon if there is still a line outside. Once there is no longer a line, shoppers may purchase more than twelve books.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Friends of Palo Alto Library | All proceeds support the Palo Alto Library</p>
+  </footer>
+</body>
+</html>
